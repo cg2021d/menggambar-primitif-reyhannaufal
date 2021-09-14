@@ -1,0 +1,14 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.border {
+  border: 2px dashed black;
+}
+
+.text-center {
+  text-align: center;
+}
